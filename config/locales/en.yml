@@ -1,0 +1,14 @@
+en:
+  currency: "$"
+  notices:
+    changes_saved: "Your changes have been saved"
+
+  errors:
+    attachment_size: "file size cannot exceed 100KB"
+    attachment_type: "file type should be .jpg, .gif, or .png"
+    attachment_required: "can't be blank"
+    changes_not_saved: "Your changes could not be saved"
+
+  date:
+    formats:
+      default: "%d/%m/%Y"

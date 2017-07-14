@@ -1,8 +1,6 @@
 <%= image_tag 'slip_logo.png' %>
 
-<p>We obtain the latest UV index from <a href="https://www.arpansa.gov.au/services/monitoring/ultraviolet-radiation-monitoring/ultraviolet-radiation-index">ARPANSA</a></p>
-
-<%= form_tag sunscreen_path(:city,:name), :method => 'get' do %>
+<%= form_tag sunscreen_path(:city,:name), :method => 'get', remote: true do %>
 	<%= select_tag "city",options_from_collection_for_select(City.all, :id, :name) %>
 	<br>
 	<%= submit_tag "Slip Slop or Slap?", :id => "sun-submit" %>

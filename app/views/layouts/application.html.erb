@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html data-turbolinks-native-message-handler="<%= ENV.fetch('TURBOLINKS_NATIVE_MESSAGE_HANDLER'.freeze) %>">
+  <head>
+    <title><%= yield(:title) %></title>
+    <%= csrf_meta_tags %>
+    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="initial-scale=1.0">
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application','jquery.tmpl', 'json', 'jquery.offline', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

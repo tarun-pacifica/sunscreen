@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stations>
+  <location id="Adelaide">
+    <name>adl</name>
+    <index>0.5</index>
+    <time>3:09 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Alice Springs">
+    <name>ali</name>
+    <index>1.8</index>
+    <time>3:09 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Brisbane">
+    <name>bri</name>
+    <index>0.4</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Canberra">
+    <name>can</name>
+    <index>0.2</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Casey">
+    <name>cas</name>
+    <index>0.0</index>
+    <time>1:38 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:38</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Darwin">
+    <name>dar</name>
+    <index>4.5</index>
+    <time>3:09 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Davis">
+    <name>dav</name>
+    <index>0.0</index>
+    <time>12:38 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:38</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Kingston">
+    <name>kin</name>
+    <index>0.1</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Macquarie Is">
+    <name>mcq</name>
+    <index>0.0</index>
+    <time>3:38 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:38</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Mawson">
+    <name>maw</name>
+    <index>0.0</index>
+    <time>11:38 AM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:38</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Melbourne">
+    <name>mel</name>
+    <index>0.1</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Newcastle">
+    <name>new</name>
+    <index>0.3</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Perth">
+    <name>per</name>
+    <index>1.4</index>
+    <time>1:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Sydney">
+    <name>syd</name>
+    <index>0.2</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+  <location id="Townsville">
+    <name>tow</name>
+    <index>1.6</index>
+    <time>3:39 PM</time>
+    <date>13/07/2017</date>
+    <fulldate>Thursday, 13 July 2017</fulldate>
+    <utcdatetime>2017/07/13 05:39</utcdatetime>
+    <status>ok</status>
+  </location>
+</stations>

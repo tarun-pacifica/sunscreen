@@ -1,0 +1,9 @@
+#Below is the expected format for each question and answer pair
+-
+  # ensure each q&a begins with a hyphen unindented
+  # ensure the words question and answer are written in lower case and indented one tab across
+  question: When will the Receva services be available?
+  answer: Receva will launch in October. Customers placing pre-orders will be updated once a month on the production progress and will be notified of any updates to the service. To stay informed on the Receva journey, please register your details.
+- 
+  question: How does Receva work?
+  answer: When you purchase a Receva enabled smart home mailbox, you will receive a text message notification every time something is delivered into the box. Via the app on your smart phone, you can review your deliveries, open your parcel box and delegate access to friends. Couriers working directly with Receva will be able to seamlessly deliver parcels into your parcel box.

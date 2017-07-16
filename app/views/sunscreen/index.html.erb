@@ -1,7 +1,8 @@
-<%= image_tag 'slip_logo.png' %>
-
-<%= form_tag sunscreen_forecast_path, method: 'put', remote: true do %>
-	<%= select_tag "city",options_from_collection_for_select(City.all, :id, :name) %>
-	<br>
-	<%= submit_tag "Slip Slop or Slap?", :id => "sun-submit" %>
-<% end %>
+<div id="index">
+	<%= image_tag 'slip_logo.png' %>
+	<%= form_tag sunscreen_forecast_path, method: 'put', remote: true do %>
+		<%= select_tag "city",options_from_collection_for_select(City.all, :id, :name),{include_blank: 'Select a City'} %>
+		<br>
+		<%= submit_tag "", :id => "sun-submit" %>
+	<% end %>
+</div>

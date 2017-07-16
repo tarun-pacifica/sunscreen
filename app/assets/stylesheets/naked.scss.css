@@ -1,0 +1,14 @@
+#naked {
+	padding: 4.5em 0 4.5em 0;
+	min-height: 19em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: #01939f;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(1, 147, 159)), to(rgb(27, 237, 254)));
+	background-image: -webkit-linear-gradient(top, rgb(1, 147, 159), rgb(27, 237, 254));
+	background-image: -moz-linear-gradient(top, rgb(1, 147, 159), rgb(27, 237, 254));
+	background-image: -o-linear-gradient(top, rgb(1, 147, 159), rgb(27, 237, 254));
+	background-image: -ms-linear-gradient(top, rgb(1, 147, 159), rgb(27, 237, 254));
+	background-image: linear-gradient(top, rgb(1, 147, 159), rgb(27, 237, 254));
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#01939f', EndColorStr='#1bedfe');
+}

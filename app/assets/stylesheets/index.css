@@ -1,0 +1,60 @@
+#sun-submit {
+	min-height:6em;
+	min-width: 15em;
+	border: 0px;	
+}
+select {
+  text-align: center;
+  text-align-last: center;
+  /* webkit*/
+}
+option {
+  text-align: left;
+  /* reset to left*/
+}
+#index {
+	margin:0 0 -10px 0;
+	padding: 1em 0 9em 0;
+	min-height: 19em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: #fdec4b;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(253, 236, 75)), to(rgb(109, 255, 252)));
+	background-image: -webkit-linear-gradient(top, rgb(253, 236, 75), rgb(109, 255, 252));
+	background-image: -moz-linear-gradient(top, rgb(253, 236, 75), rgb(109, 255, 252));
+	background-image: -o-linear-gradient(top, rgb(253, 236, 75), rgb(109, 255, 252));
+	background-image: -ms-linear-gradient(top, rgb(253, 236, 75), rgb(109, 255, 252));
+	background-image: linear-gradient(top, rgb(253, 236, 75), rgb(109, 255, 252));
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#fdec4b', EndColorStr='#6dfffc');
+}
+#sun-submit {
+	background: url("sss_submit_inactive.png");
+	background-repeat: no-repeat;
+	min-width: 15em;
+	min-height: 6em;
+	border: 0px;
+	margin-top: 1em;
+}
+#city {
+	background-color: white;
+	border: 2px solid grey;
+    margin: 2em 0 0 0;
+}
+
+#burnt {
+	padding: 0.1em; 0; 
+	min-height: 18.5em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color: #ff6601;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(255, 102, 1)), to(rgb(253, 236, 75)));
+	background-image: -webkit-linear-gradient(top, rgb(255, 102, 1), rgb(253, 236, 75));
+	background-image: -moz-linear-gradient(top, rgb(255, 102, 1), rgb(253, 236, 75));
+	background-image: -o-linear-gradient(top, rgb(255, 102, 1), rgb(253, 236, 75));
+	background-image: -ms-linear-gradient(top, rgb(255, 102, 1), rgb(253, 236, 75));
+	background-image: linear-gradient(top, rgb(255, 102, 1), rgb(253, 236, 75));
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#ff6601', EndColorStr='#fdec4b');
+	text-align: center;
+	font-size: 2em;
+}
+

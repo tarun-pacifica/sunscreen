@@ -4,6 +4,5 @@ Rails.application.routes.draw do
   root "sunscreen#index"
   get '/naked' => "sunscreen#naked"
   get '/burnt' => "sunscreen#burnt"
-
   put '/sunscreen_forecast' => 'sunscreen#show'
 end

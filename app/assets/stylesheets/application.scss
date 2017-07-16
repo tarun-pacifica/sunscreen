@@ -1,17 +1,12 @@
+/*
+ *= require_self
+ *= require_tree .
+ */
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 body{
   text-align: center;
   font-size: 2em;
-}
-img{
-  margin:10px;
-}
-input, .btn{
-  color:red;
-}
-
-#sun-submit {
-	margin-top: 0.5em;
 }

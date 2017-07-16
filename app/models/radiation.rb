@@ -23,8 +23,9 @@ class Radiation < ApplicationRecord
     @uv_index = @city_index.text.to_f
   end
 
-  def self.uv_indices
+  def self.fetch_and_save_uv_indices
     City.all.map do |city|
+    byebug
       city.index = self.uv_index(city.name)
       city.save!
     end
